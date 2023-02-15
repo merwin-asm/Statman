@@ -2,6 +2,8 @@
 
 ## About
 Discord Status manager  ||  CLI 
+  
+  - Note : The use of this tool can be against the TOS :)
 
 ## Requirements
 
