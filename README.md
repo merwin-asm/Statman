@@ -1,4 +1,4 @@
-# Statman
+# Statman CLI
 
 ## About
 Discord Status manager  ||  CLI 
