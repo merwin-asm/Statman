@@ -116,6 +116,7 @@ elif option == "2":
         time.sleep(3)
 
 elif option == "3":
+    status_ = input("Status : ")
     www = input("Slim or Thicc (|/❚) - (0/1)  : ") 
     if www == "0":
         status = "|"*10
