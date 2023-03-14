@@ -4,9 +4,9 @@
 
 
 ## About
-Discord Status manager  ||  CLI 
+StatmanCLI enables you to get a cool looking discord status. You can setup an automatically changing discord status easily with statmancli!
   
-  - Note : The use of this tool can be against the TOS :)
+***Note : The use of this tool can be against the Discord TOS***
 
 ## Requirements
 
